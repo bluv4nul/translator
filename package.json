@@ -1,6 +1,7 @@
 {
   "name": "react",
   "version": "1.0.0",
+  "homepage": "https://bluv4nul.github.io/translator",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
@@ -26,6 +27,5 @@
         "no-unused-vars": "off"
       }
     }
-  },  
-  "homepage": "https://username.github.io/translator/"
+  }
 }
