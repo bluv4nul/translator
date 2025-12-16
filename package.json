@@ -26,5 +26,6 @@
         "no-unused-vars": "off"
       }
     }
-  }
+  },  
+  "homepage": "https://username.github.io/translator/"
 }
